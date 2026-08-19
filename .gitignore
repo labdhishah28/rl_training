@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Project Specific
+logs/
+*.csv
+*.zip
+*.png
+*.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
